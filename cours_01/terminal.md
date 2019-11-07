@@ -42,3 +42,14 @@ CTRL + ALT + T.
 Si tu utilises Linux, passe ton terminal en anglais. Ça va vraiment t'aider lorsqu'il te renverra des erreurs. En effet, comme l'anglais est la langue d'internet, la majorité des gens ayant eu ton problème vont le poster en anglais. Tu auras ainsi 100 fois plus de résultats sur Google qu'avec une erreur postée en français.
 
 ## ***3.2.3. Sur Windows***
+
+Sur Windows, le terminal sera géré de manière un chouilla différente. Pendant toute la formation, nous allons utiliser un terminal de type Shell Unix, car c'est le plus utilisé au monde et qu'il sera donc plus aisé pour toi de trouver des réponses en cas de problème. Le terminal Shell Unix est celui qui est installé de base pour Linux et macOS. Celui de Windows est l'invite de commandes, qui est de type DOS. Bon je sais, ça commence à faire beaucoup d'infos... Mais essaie au moins de retenir ces points :
+
+- macOS et Linux utilisent le même "noyau" de système d'exploitation : Unix ; tandis que Windows utilise DOS.
+- Le terminal de macOS et Linux est de type Shell Unix, tandis que celui de Windows est de type DOS. Ce qui fait que l'invite de commandes de Windows aura une utilisation différente de celui de type Unix Shell.
+- Dans le milieu de la programmation, le terminal de type Shell Unix est universellement utilisé.
+- Si tu es utilisateur de Windows, nous te demanderons de trouver une alternative à l'invite de commandes.
+Pas de panique, nous avons pensé à toi si tu es sur Windows ! Voici quelques alternatives qui feront le travail :
+
+- La solution de facilité pour les grands débutants du terminal est Cygwin. Pour t'aider, j'ai même réalisé une vidéo tutorielle pour son installation.
+- C'est en constatant le rejet universel de Windows chez les développeurs qu'un certain Satya Nadella a travaillé dur pour proposer une alternative décente. Ainsi, ***si tu es sur Windows 10***, il existe un terminal Shell Unix qui s'appelle Windows Subsystem for Linux et qui installe une version de Linux sur Windows dont tu peux te servir
