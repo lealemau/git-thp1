@@ -49,7 +49,30 @@ Sur Windows, le terminal sera géré de manière un chouilla différente. Pendan
 - Le terminal de macOS et Linux est de type Shell Unix, tandis que celui de Windows est de type DOS. Ce qui fait que l'invite de commandes de Windows aura une utilisation différente de celui de type Unix Shell.
 - Dans le milieu de la programmation, le terminal de type Shell Unix est universellement utilisé.
 - Si tu es utilisateur de Windows, nous te demanderons de trouver une alternative à l'invite de commandes.
+
 Pas de panique, nous avons pensé à toi si tu es sur Windows ! Voici quelques alternatives qui feront le travail :
 
 - La solution de facilité pour les grands débutants du terminal est Cygwin. Pour t'aider, j'ai même réalisé une vidéo tutorielle pour son installation.
 - C'est en constatant le rejet universel de Windows chez les développeurs qu'un certain Satya Nadella a travaillé dur pour proposer une alternative décente. Ainsi, ***si tu es sur Windows 10***, il existe un terminal Shell Unix qui s'appelle Windows Subsystem for Linux et qui installe une version de Linux sur Windows dont tu peux te servir
+
+# ***3.3. Premières fonctions ?***
+
+Pour faire marcher le terminal, rien de plus simple : il suffit de rentrer le texte correspondant à une fonction pour que celle-ci s'exécute. Par exemple, si dans l'explorateur en GUI il suffit de double cliquer sur mon_fichier.txt pour l'ouvrir, il faudra taper open mon_fichier.txt (sur macOS) ou xdg-open mon_fichier.txt (sur Linux) dans le terminal pour faire de même. On va tester ça avec notre première fonction :
+
+$ echo "Hello world !"
+
+(je commence toutes les commandes de terminal avec un $. C'est une convention qui aide à reconnaître les commandes de CLI, mais qui ne fait pas partie de la commande. Enlève donc bien le $ au moment de tester !)
+
+Si tu exécutes cette commande, le terminal devrait te renvoyer Hello world ! (cette phrase est un grand classique de la programmation). Et là, BOUM ! Tu viens d'exécuter ta première commande de terminal 🎉.
+
+Maintenant nous allons voir quelques commandes basiques.
+
+## ***3.3.1. PWD***
+
+pwd est l'acronyme de Print Working Directory, une commande affichant le dossier dans lequel tu es actuellement.
+
+$ pwd
+Pour moi, pwd me renvoie :
+
+/Users/felix
+C'est comme dans l'explorateur en GUI, quand tu double-cliques sur felix, il te déplace dans le dossier felix qui est dans le dossier Users.
