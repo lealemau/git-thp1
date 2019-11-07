@@ -134,7 +134,13 @@ $ touch nomdufichier
 
 Cette commande va créer un fichier qui s'appelle nomdufichier
 
-## ***3.6.2. Déplacer***
+## ***3.6.2. Copier***
+
+Pour copier un fichier ou un dossier et le coller ailleurs, il suffit de rentrer :
+
+$ cp fichier_à_copier lieu_de_destination
+
+## ***3.6.3. Déplacer***
 
 Pour déplacer (couper) un fichier ou un dossier d'un endroit vers un autre, il suffit de rentrer :
 
@@ -180,7 +186,7 @@ Les touches du haut et du bas permettent de naviguer dans l'historique des comma
 
 Voici les points à retenir de la ressource :
 
-- Pour lancer le terminal sur Linux : CTRL + ALT + T ; pour le lancer sur macOS : CMD + SPACE, puis écrire Terminal (ou iTerm) et presser la touche Enter ; pour Windows il te faudra trouver un subterfuge : Cygwin est la solution parfaite pour les débutants.
+- Pour lancer le terminal sur Linux : CTRL + ALT + T ; pour le lancer sur macOS : CMD + SPACE, puis écrire Terminal (ou iTerm) et presser la touche Enter ; pour Windows il te faudra trouver un subterfuge : [Cygwin](https://www.youtube.com/watch?v=YogNpgcKY9A&feature=youtu.be) est la solution parfaite pour les débutants.
 - man permet de lancer le manuel des fonctions.
 - pwd affiche le dossier dans lequel tu es actuellement.
 - ls est une commande qui affiche les fichiers et dossiers contenus dans mon dossier actuel.
@@ -194,10 +200,10 @@ Voici les points à retenir de la ressource :
 
 # ***5. Aller plus loin***
 
-Voici un excellent cours express pour avoir quelques bases concernant l'utilisation du terminal. Il est un peu similaire au mien, mais aborde d'autres sujets intéressants tels que le PATH.
+Voici un excellent [cours express](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) pour avoir quelques bases concernant l'utilisation du terminal. Il est un peu similaire au mien, mais aborde d'autres sujets intéressants tels que le PATH.
 
-Viking Code School ont aussi fait un cours sur le pimp de terminal pour y intégrer de couleurs de BGs.
+Viking Code School ont aussi fait un [cours sur le pimp de terminal](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) pour y intégrer de couleurs de BGs.
 
-Michael Hartl a fait une célèbre introduction au terminal nommée Learn Enough Command Line to Be Dangerous. Cette ressource permet d'aller assez loin dans les détails de l'utilisation du terminal.
+Michael Hartl a fait une célèbre introduction au terminal nommée [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics). Cette ressource permet d'aller assez loin dans les détails de l'utilisation du terminal.
 
-Pour ceux qui veulent découvrir Vim, voici une marche à suivre pour être champion de Vim rapidement.
+Pour ceux qui veulent découvrir Vim, voici [une marche à suivre](https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85) pour être champion de Vim rapidement.
