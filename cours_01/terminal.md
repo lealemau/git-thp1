@@ -29,5 +29,5 @@ Le terminal est un outil intimidant aux premiers abords, mais pas si compliqué 
 "https://www.youtube.com/embed/myz_6xrDwR4"
 
 # ****3.2. Comment le lancer ? ****
-## ****3.2.1. Sur macOS****
+## **** 3.2.1. Sur macOS****
 
