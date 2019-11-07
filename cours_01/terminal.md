@@ -43,7 +43,7 @@ Si tu utilises Linux, passe ton terminal en anglais. Ça va vraiment t'aider lor
 
 ## ***3.2.3. Sur Windows***
 
-Sur Windows, le terminal sera géré de manière un chouilla différente. Pendant toute la formation, nous allons utiliser un terminal de type Shell Unix, car c'est le plus utilisé au monde et qu'il sera donc plus aisé pour toi de trouver des réponses en cas de problème. Le terminal Shell Unix est celui qui est installé de base pour Linux et macOS. Celui de Windows est l'invite de commandes, qui est de type DOS. Bon je sais, ça commence à faire beaucoup d'infos... Mais essaie au moins de retenir ces points :
+Sur Windows, le terminal sera géré de manière un chouilla différente. Pendant toute la formation, nous allons utiliser un terminal de type [Visitez Shell Unix](https://fr.wikipedia.org/wiki/Shell_Unix), car c'est le plus utilisé au monde et qu'il sera donc plus aisé pour toi de trouver des réponses en cas de problème. Le terminal Shell Unix est celui qui est installé de base pour Linux et macOS. Celui de Windows est l'invite de commandes, qui est de type DOS. Bon je sais, ça commence à faire beaucoup d'infos... Mais essaie au moins de retenir ces points :
 
 - macOS et Linux utilisent le même "noyau" de système d'exploitation : Unix ; tandis que Windows utilise DOS.
 - Le terminal de macOS et Linux est de type Shell Unix, tandis que celui de Windows est de type DOS. Ce qui fait que l'invite de commandes de Windows aura une utilisation différente de celui de type Unix Shell.
