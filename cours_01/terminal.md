@@ -72,7 +72,26 @@ Maintenant nous allons voir quelques commandes basiques.
 pwd est l'acronyme de Print Working Directory, une commande affichant le dossier dans lequel tu es actuellement.
 
 $ pwd
+
 Pour moi, pwd me renvoie :
 
 /Users/felix
+
 C'est comme dans l'explorateur en GUI, quand tu double-cliques sur felix, il te déplace dans le dossier felix qui est dans le dossier Users.
+
+# ***🚀 ALERTE BONNE ASTUCE***
+pwd est généralement la première commande que l'on tape quand on arrive dans le terminal de quelqu'un car c'est idéal pour s'y retrouver ✌️
+
+## ***3.3.2. LS***
+
+ls est le diminutif de list. Cette fonction affiche les fichiers et dossiers situés dans mon dossier actuel.
+
+$ ls
+
+Pour moi, ls me renvoie :
+
+Applications/   Dropbox/     Music/       Desktop/
+Pictures/     Documents/    Library/     Public/
+Downloads/    Movies/
+
+Dans le terminal, nous pouvons ajouter des options à la plupart des fonctions en utilisant la syntaxe $ fonction -option. Par exemple, je peux faire ls -a (a pour "all"), ce qui a pour effet d'afficher aussi les fichiers commençant par un . (fichiers de devs en général). Je peux faire ls -l pour afficher la liste au format long. Et je peux même combiner les deux en faisant ls -al.
