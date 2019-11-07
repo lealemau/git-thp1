@@ -12,6 +12,7 @@ Voici la liste des questions auxquelles tu vas pouvoir répondre avec cette ress
 - Qu'est-ce que VIM et comment s'en servir ?
 
 ****Historique****
+
 Le terminal -- ce que l'on appelle plus communément un interpréteur de commande (ou command-line interpreter - CLI - en anglais) -- est un outil qui interprète les commandes tapées au clavier dans l'interface de ligne de commande.
 
 À la base, les ordinateurs tournaient sans interface graphique. Les utilisateurs n'avaient donc pas d'autre choix que de passer par les CLI pour effectuer une action. L'arrivée des systèmes d'exploitation graphiques (Windows, Apple, Linux) n'a pourtant pas tué la popularité de la CLI car il permet de faire des tâches extrêmement précises.
