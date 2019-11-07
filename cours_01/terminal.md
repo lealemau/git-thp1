@@ -43,7 +43,7 @@ Si tu utilises Linux, passe ton terminal en anglais. Ça va vraiment t'aider lor
 
 ## ***3.2.3. Sur Windows***
 
-Sur Windows, le terminal sera géré de manière un chouilla différente. Pendant toute la formation, nous allons utiliser un terminal de type [Visitez Shell Unix](https://fr.wikipedia.org/wiki/Shell_Unix), car c'est le plus utilisé au monde et qu'il sera donc plus aisé pour toi de trouver des réponses en cas de problème. Le terminal Shell Unix est celui qui est installé de base pour Linux et macOS. Celui de Windows est l'invite de commandes, qui est de type DOS. Bon je sais, ça commence à faire beaucoup d'infos... Mais essaie au moins de retenir ces points :
+Sur Windows, le terminal sera géré de manière un chouilla différente. Pendant toute la formation, nous allons utiliser un terminal de type [Shell Unix](https://fr.wikipedia.org/wiki/Shell_Unix), car c'est le plus utilisé au monde et qu'il sera donc plus aisé pour toi de trouver des réponses en cas de problème. Le terminal Shell Unix est celui qui est installé de base pour Linux et macOS. Celui de Windows est l'invite de commandes, qui est de type DOS. Bon je sais, ça commence à faire beaucoup d'infos... Mais essaie au moins de retenir ces points :
 
 - macOS et Linux utilisent le même "noyau" de système d'exploitation : Unix ; tandis que Windows utilise DOS.
 - Le terminal de macOS et Linux est de type Shell Unix, tandis que celui de Windows est de type DOS. Ce qui fait que l'invite de commandes de Windows aura une utilisation différente de celui de type Unix Shell.
@@ -52,7 +52,7 @@ Sur Windows, le terminal sera géré de manière un chouilla différente. Pendan
 
 Pas de panique, nous avons pensé à toi si tu es sur Windows ! Voici quelques alternatives qui feront le travail :
 
-- La solution de facilité pour les grands débutants du terminal est Cygwin. Pour t'aider, j'ai même réalisé une vidéo tutorielle pour son installation.
+- La solution de facilité pour les grands débutants du terminal est [Cygwin](https://www.cygwin.com/). Pour t'aider, j'ai même réalisé [une vidéo tutorielle](https://www.youtube.com/watch?v=YogNpgcKY9A&feature=youtu.be) pour son installation.
 - C'est en constatant le rejet universel de Windows chez les développeurs qu'un certain Satya Nadella a travaillé dur pour proposer une alternative décente. Ainsi, ***si tu es sur Windows 10***, il existe un terminal Shell Unix qui s'appelle Windows Subsystem for Linux et qui installe une version de Linux sur Windows dont tu peux te servir
 
 # ***3.3. Premières fonctions ?***
@@ -63,7 +63,7 @@ $ echo "Hello world !"
 
 (je commence toutes les commandes de terminal avec un $. C'est une convention qui aide à reconnaître les commandes de CLI, mais qui ne fait pas partie de la commande. Enlève donc bien le $ au moment de tester !)
 
-Si tu exécutes cette commande, le terminal devrait te renvoyer Hello world ! (cette phrase est un grand classique de la programmation). Et là, BOUM ! Tu viens d'exécuter ta première commande de terminal 🎉.
+Si tu exécutes cette commande, le terminal devrait te renvoyer Hello world ! (cette phrase est [un grand classique de la programmation](https://fr.wikipedia.org/wiki/Hello_world)). Et là, BOUM ! Tu viens d'exécuter ta première commande de terminal 🎉.
 
 Maintenant nous allons voir quelques commandes basiques.
 
