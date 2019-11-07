@@ -1,7 +1,9 @@
 ****1. Introduction****
+
 Accroche-toi à tes chaussettes, car nous allons maintenant découvrir les bases du terminal ! Il s'agit d'un outil très puissant permettant de "parler" à son ordinateur. Nous allons voir : comment interagir avec le terminal, comment jouer avec ses premiers fichiers, et bien d'autres choses utiles. C'est plutôt fun, tu vas voir !
 
 ****1.1. Ce que tu vas apprendre dans cette ressource****
+
 Voici la liste des questions auxquelles tu vas pouvoir répondre avec cette ressource :
 
 - Qu'est-ce que le terminal ?
@@ -18,3 +20,6 @@ Le terminal -- ce que l'on appelle plus communément un interpréteur de command
 À la base, les ordinateurs tournaient sans interface graphique. Les utilisateurs n'avaient donc pas d'autre choix que de passer par les CLI pour effectuer une action. L'arrivée des systèmes d'exploitation graphiques (Windows, Apple, Linux) n'a pourtant pas tué la popularité de la CLI car il permet de faire des tâches extrêmement précises.
 
 En gros, c'est une version texte de l'explorateur de fichiers : on peut ouvrir des dossiers, créer des fichiers, les lancer, les renommer, installer des programmes, et bien d'autres choses. On dit que c'est une **CLI** (Command Line Interface), comparée à la GUI (Graphical User Interface) de l'explorateur normal. Tout est fait via le clavier, donc pas besoin de souris pour l'utiliser.
+
+#****Le terminal****
+##***Qu'est-ce que le terminal ?***
