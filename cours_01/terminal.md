@@ -13,7 +13,7 @@ Voici la liste des questions auxquelles tu vas pouvoir répondre avec cette ress
 - Pourquoi la notion de géographie est très importante dans un terminal ?
 - Qu'est-ce que VIM et comment s'en servir ?
 
-# ****Historique****
+# ****2. Historique****
 
 Le terminal -- ce que l'on appelle plus communément un interpréteur de commande (ou command-line interpreter - CLI - en anglais) -- est un outil qui interprète les commandes tapées au clavier dans l'interface de ligne de commande.
 
