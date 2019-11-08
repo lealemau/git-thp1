@@ -32,7 +32,7 @@ Le terminal est un outil intimidant aux premiers abords, mais pas si compliqué 
 
 ## ****3.2.1. Sur macOS****
 
-CMD + SPACE, puis écrire Terminal (ou iTerm), Enter.
+<span style="color:magenta">>CMD + SPACE, puis écrire Terminal (ou iTerm), Enter.
 
 ## ****3.2.2. Sur linux****
 
